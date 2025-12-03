@@ -12,3 +12,6 @@
 
 3. 安装其他必要依赖
     >npm install vue-router@4 pinia mockjs axios
+
+4. 确保已安装TypeScript相关依赖
+    >npm install -D @types/node
